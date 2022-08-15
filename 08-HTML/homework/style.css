@@ -1,0 +1,30 @@
+
+        h1 {
+            color: gold;
+        }
+        img {
+            width : 400px;
+        }
+        #thirdDiv {
+            height: 600px;
+            width: 500px;
+            background-color:gold;
+            padding: 50px;
+            border: 5px solid black;
+            text-align: center;
+            position: absolute;
+            top: 80%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+        #spanId {
+            font-size: 18px;
+            margin: 50px;
+
+        }
+        body{
+            background-image: url(https://th.bing.com/th/id/R.e5bedcefa229385d06f67670a382c38a?rik=sE%2fguq%2fRBS%2fivA&pid=ImgRaw&r=0);
+        }
+        .divClass{
+            text-align: center;
+        }
